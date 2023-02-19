@@ -1,11 +1,23 @@
 items:
-  - text: Bowl
-    url: /en/bowl
-  - text: Lineage
-    url: /en/lineage
-  - text: Seminars
-    url: /en/seminars
-  - text: Dojos
-    url: /en/dojos
-  - text: Newsletter
-    url: /en/shiun
+  en:
+    - text: Bowl
+      url: /en/bowl
+    - text: Lineage
+      url: /en/lineage
+    - text: Seminars
+      url: /en/seminars
+    - text: Dojos
+      url: /en/dojos
+    - text: Newsletter
+      url: /en/shiun
+  fr:
+    - text: Bol
+      url: /fr/bowl
+    - text: Lignage
+      url: /fr/lineage
+    - text: Stages
+      url: /fr/seminars
+    - text: Dojos
+      url: /fr/dojos
+    - text: Newsletter
+      url: /fr/shiun
