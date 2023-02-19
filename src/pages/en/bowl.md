@@ -1,7 +1,6 @@
 ---
 route: bowl
 title: A bowl Of Biran
-permalink: /en/bowl
 ---
 ## Heavenly Gift
 At the 1997 French Summer Camp in Mejannes-le-Clap, one of the senior French
@@ -45,7 +44,7 @@ The bowl's contour is gradually raised from the base to the outer rim at 40
 degrees, simultaneously expressing expansion and contraction, or forces of
 centripetal and centrifugal energy.
 
-<img src=\"/images/biranbowl.gif\" />
+<img src="/images/biranbowl.gif" />
 
 I can't be sure of the bowl's origins, but it looks to me to be Bizen or
 Tamba pottery of Japan. I had found it sitting amongst some rubbish in the

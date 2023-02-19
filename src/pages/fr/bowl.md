@@ -1,7 +1,6 @@
 ---
 route: bowl
 title: Le bol de Biran
-permalink: /fr/bowl
 ---
 ## Cadeau du Ciel
 Pendant le camp d’été de Méjannes-le-Clap en 1999, un des instructeurs
@@ -48,7 +47,7 @@ Les parois du bol, qui s'élèvent progressivement au-dessus du pied à un angle
 de quarante degrés, expriment simultanément l'expansion et la contraction ou
 la force centripète et centrifuge.
 
-<img src=\"/images/biranbowl.gif\" />
+<img src="/images/biranbowl.gif" />
 
 Je ne peux pas être sûr de l’origine du bol, mais il ressemble à une poterie
 japonaise de Bizen ou de Tamba. Je l’avais trouvé au milieu de choses
