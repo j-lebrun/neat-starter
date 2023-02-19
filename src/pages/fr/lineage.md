@@ -1,6 +1,6 @@
 ---
 route: lineage
-title: Lineage
+title: Lignage
 ---
 <section class="intro">
 
