@@ -1,5 +1,5 @@
 ---
 language: en
-title: A Bowl Of Biran
+title: A bowl Of Biran
 permalink: /en/bowl
 ---
