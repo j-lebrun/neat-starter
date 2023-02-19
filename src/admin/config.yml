@@ -30,6 +30,24 @@ collections:
         multiple: true
         create: true
         options: ["Tags", "created", "from", "config.yml"]
+  - label: "English Pages"
+    name: "pages_en"
+    folder: "src/pages/en"
+    create: true
+    fields:
+      - { label: "Route", name: "route", widget: "string" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Content", name: "body", widget: "markdown" }
+    slug: "{{route}}"
+  - label: "French Pages"
+    name: "pages_fr"
+    folder: "src/pages/fr"
+    create: true
+    fields:
+      - { label: "Route", name: "route", widget: "string" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Content", name: "body", widget: "markdown" }
+    slug: "{{route}}"
   - label: "Settings"
     name: "settings"
     editor:
